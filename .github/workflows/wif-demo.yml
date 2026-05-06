@@ -16,7 +16,7 @@ jobs:
 
     - uses: google-github-actions/auth@v2
       with:
-        workload_identity_provider: "projects/43651920199/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
+        workload_identity_provider: "projects/83814747678/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
         service_account: "github-wif-sa@project-d4fa532f-546b-4bdb-921.iam.gserviceaccount.com"
 
     - uses: google-github-actions/setup-gcloud@v2
