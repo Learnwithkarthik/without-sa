@@ -1,4 +1,4 @@
-name: WIF Demo
+name: WIF Demo ## For demo purpose without any service account
 
 on:
   push:
