@@ -1,4 +1,4 @@
-name: WIF Demo ## For demo purpose without any service account
+name: WIF Demo ## For demo purpose without any service account #runner sample
 
 on:
   push:
